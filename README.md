@@ -2,13 +2,18 @@
 
 # Heading 1
 Technologies Used
-Node.js, mongoose, express, EJS
+Node.js, mongoose, express, favicon generator, FontAwesome
 
 # Heading 2
-User Story
+Fitness tracker for people looking to keep track of their progress and exercise routines. Allows user to
+add workouts and view past workouts. 
 
 # Heading 3
-Approach Taken
+npm i
+mongod
+nodemon
+
+
 
 # Heading 4
 Unsolved problems
