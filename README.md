@@ -1,21 +1,20 @@
 # fittracker
 
-# Heading 1
-Technologies Used
+# Technologies used
+
 Node.js, mongoose, express, favicon generator, FontAwesome
 
-# Heading 2
+# User story
 Fitness tracker for people looking to keep track of their progress and exercise routines. Allows user to
 add workouts and view past workouts. 
 
-# Heading 3
-npm i
-mongod
+# Approach taken
+npm i </br>
+mongod </br>
 nodemon
 
 
 
-# Heading 4
-Unsolved problems
+# Unsolved problems
 
---link to page here --
+--link to page here -- (heroku)
